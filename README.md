@@ -2,6 +2,7 @@
 This is a repository of educational .mbz resources, which can be restored to a Moodle environment. Their name 'text-to-moodle' is because the main process of their development was to transform text files like .docx, .pdf, and plain .ppts  to dynamic items in an LMS environment, using incorporated Moodle authoring tools. 
 
 
+
 ## 1. 'Application and results of new curricula of arts in real-time-classroom'(moodle lesson-branching scenario)
 
 
@@ -24,6 +25,13 @@ The resource has been integrated into the Institution's Information System on a 
 
 ___________________________
 Αυτό είναι ένα αποθετήριο εκπαιδευτικών πόρων .mbz, οι οποίοι μπορούν να αποκατασταθούν σε περιβάλλον moodle. Το όνομά τους «κείμενο-σε-moodle» οφείλεται στο γεγονός ότι, η κύρια πρόκληση  ανάπτυξής τους ήταν να μετατραταπούν αρχεία  όπως .docx, .pdf και στατικά .ppts σε δυναμικά στοιχεία σε ένα lms envinronment, χρησιμοποιώντας ενσωματωμένα εργαλεία σύνταξης moodle.
+
+Δημιουργός μαθησιακών αντικειμένων moodle, ψηφιακός μετασχηματισμός από κείμενα των Νέων ΠΣ : Φωτεινή Καφίδα, ΠΕ08
+Συντελεστές: Επιτροπή Υποστήριξης Έργου του ΙΕΠ
+Διδακτικός σχεδιασμός και περιεχόμενο Νέων ΠΣ: Ομάδα συγγραφής των Εμπειρογνωμόνων-εκπονητών/εποπτών ΠΕ08 για το γυμνάσιο στα πλαίσια του ΟΠΣ (MIS) 5035543, 2021.
+Προστατεύεται με άδεια Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές
+
+Περιέχει τα αντικείμενα:
 
 ## 1. Εφαρμογή και αποτελέσματα των νέων προγραμμάτων σπουδών των τεχνών σε πραγματικό χρόνο-τάξη» (σενάριο-διακλάδωσης)
 
