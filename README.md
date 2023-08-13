@@ -1,6 +1,6 @@
 # text-to-moodle  
 
-This is a repository of educational .mbz resources, which can be restored to a Moodle environment. Their name 'text-to-moodle' is because the main process of their development was to transform text files like .docx, .pdf, and plain .ppts  to dynamic items in an LMS environment, using incorporated Moodle authoring tools. 
+This is a repository of educational .mbz resources, which can be restored to a Moodle environment. Their name 'text-to-moodle' is because the main process of their development was to transform text files like .docx, .pdf, and plain .ppts  to dynamic items in an LMS environment, using incorporated Moodle authoring tools.   
 Creator of Moodle interactive activities, facilitating the digital transformation from the original texts of the new curricula: Fotini Kafida, Fine arts teacher- under the supervision of the Committee of the Institution of Educational Policy of Greece.
 Content of new curricula or Arts in middle school education: Drafting Group of experts/editors/supervisors for the middle school, (MIS) 5035543, 2021. Language of the item: Greek Protected under Creative Commons License Creator reference - Non-Commercial use - similar distribution 4.0 International.
 
