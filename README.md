@@ -1,8 +1,14 @@
 # text-to-moodle  
 
 This is a repository of educational .mbz resources, which can be restored to a Moodle environment. Their name 'text-to-moodle' is because the main process of their development was to transform text files like .docx, .pdf, and plain .ppts  to dynamic items in an LMS environment, using incorporated Moodle authoring tools.   
-Creator of Moodle interactive activities, facilitating the digital transformation from the original texts of the new curricula: Fotini Kafida, Fine arts teacher- under the supervision of the Committee of the Institution of Educational Policy of Greece.
-Content of new curricula or Arts in middle school education: Drafting Group of experts/editors/supervisors for the middle school, (MIS) 5035543, 2021. Language of the item: Greek Protected under Creative Commons License Creator reference - Non-Commercial use - Share alike distribution 4.0 International.
+
+
+Creator of Moodle interactive activities, facilitating the digital transformation from the original texts of the new curricula: Fotini Kafida, Fine arts teacher- under the supervision of the Committee of the Institution of Educational Policy of Greece <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311>.
+You can also enrol as a guest with free access to <https://fotiniedu.moodlecloud.com/course/view.php?id=9> to view those objects.  
+
+Content of new curricula or Arts in middle school education: Drafting Group of experts/editors/supervisors for the middle school, (MIS) 5035543, 2021.  
+Language of the item: Greek.  
+Protected under Creative Commons License Creator reference - Non-Commercial use - Share alike distribution 4.0 International.
 
 -----------------
 
@@ -29,14 +35,18 @@ This eBook offers assistance in creating a lesson plan or series of lessons, usi
 The resource has been integrated into the Institution's Information System on a Moodle site, which can be accessed by enrolling in the course at <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311>. It is a free guide and is not intended for evaluation or assessment. The digital transfer and transformation from text-to-moodle was carried out by Fotini Kafida, under the supervision of the Committee of the MOOC Educational Projects of the Institution of Educational Policy of Greece.
 
 ___________________________
-Αυτό είναι ένα αποθετήριο εκπαιδευτικών πόρων .mbz, οι οποίοι μπορούν να αποκατασταθούν σε περιβάλλον moodle. Το όνομά τους «κείμενο-σε-moodle» οφείλεται στο γεγονός ότι, η κύρια πρόκληση  ανάπτυξής τους ήταν να μετατραταπούν αρχεία  όπως .docx, .pdf και στατικά .ppts σε δυναμικά στοιχεία σε ένα lms envinronment, χρησιμοποιώντας ενσωματωμένα εργαλεία σύνταξης moodle.
+Αυτό είναι ένα αποθετήριο εκπαιδευτικών πόρων .mbz, οι οποίοι μπορούν να αποκατασταθούν σε περιβάλλον moodle. Το όνομά τους «κείμενο-σε-moodle» οφείλεται στο γεγονός ότι, η κύρια πρόκληση  ανάπτυξής τους ήταν να μετατραταπούν αρχεία  όπως .docx, .pdf και στατικά .ppts σε δυναμικά στοιχεία σε ένα lms envinronment, χρησιμοποιώντας ενσωματωμένα εργαλεία σύνταξης moodle.  
 
-Δημιουργός μαθησιακών αντικειμένων moodle, ψηφιακός μετασχηματισμός από κείμενα των Νέων ΠΣ : Φωτεινή Καφίδα, ΠΕ08
-Συντελεστές: Επιτροπή Υποστήριξης Έργου του ΙΕΠ
-Διδακτικός σχεδιασμός και περιεχόμενο Νέων ΠΣ: Ομάδα συγγραφής των Εμπειρογνωμόνων-εκπονητών/εποπτών ΠΕ08 για το γυμνάσιο στα πλαίσια του ΟΠΣ (MIS) 5035543, 2021.
-Προστατεύεται με άδεια Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές
+Δημιουργός μαθησιακών αντικειμένων moodle, ψηφιακός μετασχηματισμός από κείμενα των Νέων ΠΣ για τις ανάγκες ΜΟΟC του ΙΕΠ : Φωτεινή Καφίδα, ΠΕ08, <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311>.  
+Μπορείτε να ανακατευθυνθείτε και στη σελίδα <https://fotiniedu.moodlecloud.com/course/view.php?id=9> για να δείτε με ελεύθερη πρόσβαση (λειτουργία επισκέπτη) τα αντικείμενα αυτά.   
+Συντελεστές: Επιτροπή Υποστήριξης Έργου του Ινστιτούτου Εκπαιδευτικής Πολιτικής (ΙΕΠ) για τα MOOC Nέων Προγραμμάτων Σπουδών.  
+Διδακτικός σχεδιασμός και περιεχόμενο Νέων ΠΣ: Ομάδα συγγραφής των Εμπειρογνωμόνων-εκπονητών/εποπτών ΠΕ08 για το γυμνάσιο στα πλαίσια του ΟΠΣ (MIS) 5035543, 2021.  
+Προστατεύεται με άδεια Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 4.0 Διεθνές  
 
 Περιέχει τα αντικείμενα:
++ Φάσεις κατασκευής σεναρίου. Σειριακό και ριζωματικό σενάριο (moodle book)
++ Διδακτική εφαρμογή και αποτελέσματα των Νέων ΠΣ στη σχολική δράση (moodle activity lesson,μικρομάθημα τύπου σεναρίου διακλάδωσης)
+
 
 ## 1. Εφαρμογή και αποτελέσματα των νέων προγραμμάτων σπουδών των τεχνών σε πραγματικό χρόνο-τάξη» (σενάριο-διακλάδωσης)
 
