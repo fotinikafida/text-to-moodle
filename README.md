@@ -1,14 +1,29 @@
 # text-to-moodle  
 
-This is a repository of educational .mbz resources, which can be restored to a Moodle environment. Their name 'text-to-moodle' is because the main process of their development was to transform text files like .docx, .pdf, and plain .ppts  to dynamic items in an LMS environment, using incorporated Moodle authoring tools.   
+This is a repository of educational .mbz resources, which can be restored to a Moodle environment.
+The main purpose of their development was to transform plain text files like .docx, .pdf, and plain .pptx  to dynamic/interactive items in an LMS environment, using incorporated Moodle authoring tools, in order to engage and make content tangible. 
+
+## Intended audience 
+Teachers and art teachers of primary and secondary education.  
+
+## Content:
+It contains two open educational resources and their separate descriptions in two more corresponding README.md files
+* An 'Activity lesson' Moodle tool called ''review application of learning results'' 
+* An 'interactive book activity Moodle tool, called ''Authoring Linear vs Rhizomatic Learning Scenarios''
+### Creator:
+Fotini Kafida, Fine arts teacher, subject matter and adapting MOOC developer.
+### Supervisor:
+Committee of the Institution of Educational Policy of Greece for the MOOCS of the primary and secondary education curriculum,(MIS) 5035543, 2021. <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311>.  
+You can enrol as a guest with free access to <https://fotiniedu.moodlecloud.com/course/view.php?id=9> to view those objects.  
+### Contributors and Drafting  Content:
+Drafting Group of experts/editors/supervisors for the middle school arts curriculum,(MIS) 5035543, 2021.  
+
+## Language of the item:
+Greek.  
+## License
+Protected under Creative Commons License Creator reference - Non-Commercial use - Share alike distribution 4.0 International.  
 
 
-Creator of Moodle interactive activities, facilitating the digital transformation from the original texts of the new curricula: Fotini Kafida, Fine arts teacher- under the supervision of the Committee of the Institution of Educational Policy of Greece <https://elearning.iep.edu.gr/study/enrol/index.php?id=2311>.
-You can also enrol as a guest with free access to <https://fotiniedu.moodlecloud.com/course/view.php?id=9> to view those objects.  
-
-Content of new curricula or Arts in middle school education: Drafting Group of experts/editors/supervisors for the middle school, (MIS) 5035543, 2021.  
-Language of the item: Greek.  
-Protected under Creative Commons License Creator reference - Non-Commercial use - Share alike distribution 4.0 International.
 
 -----------------
 
