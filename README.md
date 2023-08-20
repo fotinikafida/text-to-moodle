@@ -1,7 +1,7 @@
 # text-to-moodle  
 
 This is a repository of educational .mbz resources, which can be restored to a Moodle or other lms environment.
-The main purpose of their development was to transform plain text files like .docx, .pdf, and plain .pptx  to dynamic/interactive items in an LMS environment, using incorporated Moodle authoring tools, in order to engage and make content tangible. 
+The main purpose of their development was to transform plain text files like .docx, .pdf, and plain .pptx  to dynamic/interactive items in an LMS environment, using incorporated Moodle authoring tools, in order to engage and make content tangible. The images, graphics and animations were designed from scratch by the creator of the object. A 5% of the  static fotos from the draft-in-text material only was preserved.
 
 ## Intended audience
 Teachers and art teachers of primary and secondary education.  
@@ -39,7 +39,7 @@ ________________________
 Eπειδή τα αρχεία .mbz είναι δυαδικά αρχεία και περιέχουν javascript, για να γίνουν ορατά χρειάζονται lms περιβάλλον.
 
 ## Χρήση
-Ο κύριος σκοπός ανάπτυξής τους  ήταν να μετατραπούν αρχεία απλού κειμένου όπως .docx, .pdf και απλά .pptx από το περιεχόμενο των [Νέων Προγραμμάτων Σπουδών](http://iep.edu.gr/el/nea-ps-provoli) σε δυναμικά / διαδραστικά στοιχεία που να εμπλέκουν ενεργά τον χρήστη. Η πρώτη αφορμή δόθηκε κατά τη διάρκεια του ψηφιακού μετασχηματισμού των Νέων ΠΣ Εικαστικών σε Mooc του [ΙΕΠ](http://iep.edu.gr/el/)
+Ο κύριος σκοπός ανάπτυξής τους  ήταν να μετατραπούν αρχεία απλού κειμένου όπως .docx, .pdf και απλά .pptx από το περιεχόμενο των [Νέων Προγραμμάτων Σπουδών](http://iep.edu.gr/el/nea-ps-provoli) σε δυναμικά / διαδραστικά στοιχεία που να εμπλέκουν ενεργά τον χρήστη. Οι εικόνες, τα γραφικά και τα animations σχεδιάστηκαν εξ' αρχής από τη δημιουργό του αντικειμένου και είναι πρωτότυπα. Διατηρήθηκε ένα 5% στατικών εικόνων από το κειμενικό υλικό. Η πρώτη αφορμή για τη μετατροπή δόθηκε κατά τη διάρκεια του ψηφιακού μετασχηματισμού των Νέων ΠΣ Εικαστικών σε Mooc του [ΙΕΠ](http://iep.edu.gr/el/)
 Τα OER που περιλεχονται εδώ είναι ολοκληρωμένα μικρομαθήματα (modules),των 8 και των 10 λεπτών αντίστοιχα, που περικλείονται στη ροή περισσότερων αντικειμένων που δομούν ενότητες του [MOOC επιμόρφωσης στα Νέων ΠΣ Εικαστικών του Γυμνασίου](https://elearning.iep.edu.gr/study/course/view.php?id=2311). 
 
 ## Τεχνική αιτιολόγηση
