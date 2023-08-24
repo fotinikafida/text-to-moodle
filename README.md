@@ -4,7 +4,7 @@ This is a repository of educational .mbz resources, which can be restored to a M
 The main purpose of their development was to transform plain text files like .docx, .pdf, and plain .pptx  to dynamic/interactive items in an LMS environment, using incorporated Moodle authoring tools, in order to engage and make content tangible. The images, graphics and animations were designed from scratch by the creator of the object. A 5% of the  static fotos from the draft-in-text material only was preserved.
 
 ## Intended audience
-Teachers and art teachers of primary and secondary education.  
+Teachers and art teachers of primary and secondary education. Instructional designers, tech advisors/contributors for eLearning in education.
 
 ## Content:
 It contains two open educational resources and their separate descriptions in two more corresponding README.md files
