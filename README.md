@@ -54,11 +54,12 @@ Eκπαιδευτικοί της πρωτοβάθμιας και δευτερο�
  **Μαθησιακός στόχος:** *οι εκπαιδευτικοί να μπορούν να:*
  >  να αποτιμήσουν τη δική τους αποτελεσματικότητα κατά την εφαρμογή σε πραγματικό τόπο και χρόνο  
  >  να συλλέξουν και να διαθέσουν μαθησιακά αποτελέσματα για την ανατροφοδότηση από-και-προς-κάθε κατεύθυνση.
-Για το χωριστό readme.md που αναφέρει τα γραφικά που υλοποιήθηκαν πρωτότυπα και την προβληματική κατασκευής του, βλέπετε στην ανάρτηση το αρχείο [separateREADME.for_activitylesson_1457_brancing.scenario.application.review.README .md](https://github.com/fotinikafida/text-to-moodle/blob/main/separateREADME.for_activitylesson_1457_brancing.scenario.application.review.README%20.md)
+Για το χωριστό readme.md που αναφέρει τα γραφικά που υλοποιήθηκαν πρωτότυπα και την προβληματική κατασκευής του, βλέπετε στην ανάρτηση το αρχείο  [separateREADME.for_activitylesson_1457_brancing.scenario.application.review.README .md](https://github.com/fotinikafida/text-to-moodle/blob/main/separateREADME.for_activitylesson_1457_brancing.scenario.application.review.README%20.md)
 
 * Ενα «διαδραστικό βιβλίο» εργαλείο Moodle, html εγχειρίδιο που περιέχει κείμενο, εικόνες και animations, και που ονομάζεται ***'Φάσεις κατασκευής σεναρίου. Σειριακό vs ριζωματικό σενάριο'***  
  **Μαθησιακός στόχος:** *οι εκπαιδευτικοί να μπορούν να:* 
 > κατανοήσουν, διαφοροποιήσουν και κατασκευάσουν γραμμικά ή ριζωματικά σενάρια, ανάλογα με το περιεχόμενο και το μαθησιακό περιβάλλον.
+> Για το χωριστό readme.md που αναφέρει τα γραφικά που υλοποιήθηκαν πρωτότυπα και την προβληματική κατασκευής του, βλέπετε στην ανάρτηση το αρχείο [readme.for.mbz.interactive.book_README .md](https://github.com/fotinikafida/text-to-moodle/blob/main/readme.for.mbz.interactive.book_README%20.md)
 
 ## Διεύθυνση φυσικών πόρων:
 Τα έργα [MOOC του ΙΕΠ για τα Νέα ΠΣ ](https://elearning.iep.edu.gr/study/course/index.php?categoryid=68&browse=courses&perpage=20&page=1) με δεδομένα Αυγούστου 2023 είναι μήτρες, που δεν προσφέρονται για ελεύθερη πρόσβαση των επισκεπτών.
